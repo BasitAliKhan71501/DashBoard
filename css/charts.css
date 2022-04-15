@@ -1,0 +1,29 @@
+@media (max-width:992px) {
+    .canvas {
+        margin: 0 9rem !important;
+    }
+}
+
+@media (max-width:768px) {
+    .canvas {
+        margin: 0 8rem !important;
+    }
+}
+
+@media (max-width:500px) {
+    .canvas {
+        margin: 0 5rem !important;
+    }
+}
+
+@media (max-width:392px) {
+    .canvas {
+        margin: 0 2rem !important;
+    }
+}
+
+@media (max-width:300px) {
+    .canvas {
+        margin: 0 0.5rem !important;
+    }
+}

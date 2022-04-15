@@ -1,0 +1,9 @@
+.fBox {
+    width: 150px;
+    height: 150px;
+    background-color: #ffff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

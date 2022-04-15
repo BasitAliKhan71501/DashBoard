@@ -1,0 +1,30 @@
+.btnContainer {
+    background-color: #ffffff;
+}
+
+.btnSpecial button {
+    background-color: rgb(116, 37, 37) !important;
+}
+
+.btnSm {
+    display: flex !important;
+    justify-content: end !important;
+    align-items: center;
+}
+
+@media (max-width:768px) {
+    .btnSm {
+        display: flex !important;
+        justify-content: start !important;
+    }
+}
+
+h2,
+p {
+    font-family: 'Roboto', 'sans-serif';
+    color: #5a5c69 !important;
+}
+
+footer {
+    background-color: #f6f7f9 !important;
+}
